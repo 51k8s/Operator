@@ -1,0 +1,4 @@
+# Operator
+
+Operator是管理特定应用程序的控制器，通过扩展kubernetes api以软件的方式帮助kubernetes用户创建，配置和管理复杂有状态的应用程序实例。
+它建立在基本的Kubernetes资源和控制器概念的基础上，它包含管理特定应用程序的操作以及实现常见任务的自动化。
