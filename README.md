@@ -11,4 +11,4 @@ operator Framework包括：
 ##### Operator lifecycle manager
 监督Kubernetes集群中运行的所有operator（及其相关服务）的安装，更新和管理整个生命周期。
 ##### Operator Metering
-Operator Metering（未来几个月加入）：为提供专业服务的operator启用使用情况报告。
+Operator Metering：为提供专业服务的operator启用使用情况报告。
